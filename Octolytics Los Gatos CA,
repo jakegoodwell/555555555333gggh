@@ -1,0 +1,299 @@
+<<html>
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css" integrity="sha512-dTfge/zgoMYpP7QbHy4gWMEGsbsdZeCXz7irItjcC3sPUFtf0kuFbDz/ixG7ArTxmDjLXDmezHubeNikyKGVyQ==" crossorigin="anonymous">
+        <title>My scratchboard page</title>
+    </head>
+
+    <body>
+        <nav class="navbar navbar-inverse">
+            <div class="container">
+                <div class="navbar-header">
+                    <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+                        <span class="sr-only">Toggle navigation</span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                    </button>
+                    <a class="navbar-brand" href="#">My scratchpad</a>
+                </div>
+                <ul class="nav navbar-nav navbar-right">
+                    
+                        <li><a href="/logout/">Log out</a></li>
+                    
+                </ul>
+            </div>
+        </nav>
+
+
+        <div class="container">
+            
+                <div class="row" style="margin-bottom: 1ex">
+                    <div>
+                        &gt;Eletto Vescovo della Diocesi Suburbicaria di Velletri-Segni il 28 gennaio 2006.&lt;/p
+                    </div>
+                    <div>
+                        <small>
+                            Posted
+                            
+                                at an unknown time
+                            
+                            by
+                            
+                                anonymous
+                            
+                        </small>
+                    </div>
+                </div>
+            
+                <div class="row" style="margin-bottom: 1ex">
+                    <div>
+                          &lt;p&gt;&lt;a href=&#34;mailto:curia@diocesi.velletri-segni.it&#34;&gt;curia@diocesi.velletri-segni.it&lt;/
+                    </div>
+                    <div>
+                        <small>
+                            Posted
+                            
+                                at an unknown time
+                            
+                            by
+                            
+                                anonymous
+                            
+                        </small>
+                    </div>
+                </div>
+            
+                <div class="row" style="margin-bottom: 1ex">
+                    <div>
+                        qqqqqqqqqqqqqqqqqqqqqqqqqqqqqq
+                    </div>
+                    <div>
+                        <small>
+                            Posted
+                            
+                                at an unknown time
+                            
+                            by
+                            
+                                anonymous
+                            
+                        </small>
+                    </div>
+                </div>
+            
+                <div class="row" style="margin-bottom: 1ex">
+                    <div>
+                         &lt;script type=&#34;text/javascript&#34;&gt;
+                    </div>
+                    <div>
+                        <small>
+                            Posted
+                            
+                                Monday, 23 July 2018 at 00:03
+                            
+                            by
+                            
+                                nigeldodds34
+                            
+                        </small>
+                    </div>
+                </div>
+            
+                <div class="row" style="margin-bottom: 1ex">
+                    <div>
+                        &lt;title&gt;Create Belarusian Rubl# by jakegoodwell · Pull Request #3 · ALPHA-TRENTE-SIX/GAMMA-CINQUANTE-CINQ&lt;/title&gt;
+                    </div>
+                    <div>
+                        <small>
+                            Posted
+                            
+                                Monday, 23 July 2018 at 00:04
+                            
+                            by
+                            
+                                nigeldodds34
+                            
+                        </small>
+                    </div>
+                </div>
+            
+                <div class="row" style="margin-bottom: 1ex">
+                    <div>
+                        &lt;meta name=&#34;description&#34; content=&#34;hongKongHonduras=&#34;&gt;
+                    </div>
+                    <div>
+                        <small>
+                            Posted
+                            
+                                Monday, 23 July 2018 at 00:04
+                            
+                            by
+                            
+                                nigeldodds34
+                            
+                        </small>
+                    </div>
+                </div>
+            
+                <div class="row" style="margin-bottom: 1ex">
+                    <div>
+                        &amp;lt;p&amp;gt;&amp;lt;a href=&amp;#34;mailto:curia@diocesi.velletri-segni.it&amp;#34;&amp;gt;curia@diocesi.velletri-segni.it&amp;lt;/
+                    </div>
+                    <div>
+                        <small>
+                            Posted
+                            
+                                Monday, 23 July 2018 at 00:06
+                            
+                            by
+                            
+                                nigeldodds34
+                            
+                        </small>
+                    </div>
+                </div>
+            
+                <div class="row" style="margin-bottom: 1ex">
+                    <div>
+                        &lt;title&gt;Octolytics Los Gatos CA, 95030 – Manta.com&lt;/title&gt;
+                    </div>
+                    <div>
+                        <small>
+                            Posted
+                            
+                                Monday, 23 July 2018 at 00:07
+                            
+                            by
+                            
+                                nigeldodds34
+                            
+                        </small>
+                    </div>
+                </div>
+            
+                <div class="row" style="margin-bottom: 1ex">
+                    <div>
+                        Los Gatos Computer Software Development and Applications, 95030&#34;&gt;
+                    </div>
+                    <div>
+                        <small>
+                            Posted
+                            
+                                Monday, 23 July 2018 at 00:08
+                            
+                            by
+                            
+                                nigeldodds34
+                            
+                        </small>
+                    </div>
+                </div>
+            
+                <div class="row" style="margin-bottom: 1ex">
+                    <div>
+                        &lt;meta name=&#34;user-login&#34; content=&#34;jakegoodwell&#34;&gt;
+                    </div>
+                    <div>
+                        <small>
+                            Posted
+                            
+                                Monday, 23 July 2018 at 00:11
+                            
+                            by
+                            
+                                nigeldodds34
+                            
+                        </small>
+                    </div>
+                </div>
+            
+                <div class="row" style="margin-bottom: 1ex">
+                    <div>
+                        li&gt;&lt;a role=&#34;menuitem&#34; class=&#34;dropdown-item&#34; href=&#34;/jakegoodwell&#34; data-ga-click=&#34;Header, go to profile, text:your profile&#34;&gt;Your profile&lt;/a&gt;&lt;/li&gt;
+                    </div>
+                    <div>
+                        <small>
+                            Posted
+                            
+                                Monday, 23 July 2018 at 00:12
+                            
+                            by
+                            
+                                nigeldodds34
+                            
+                        </small>
+                    </div>
+                </div>
+            
+                <div class="row" style="margin-bottom: 1ex">
+                    <div>
+                        &#34;link_type:self&#34; href=&#34;/jakegoodwell&#34;&gt;jakegoodwell&lt;/a&gt;
+   wants to merge 1 commit into
+                    </div>
+                    <div>
+                        <small>
+                            Posted
+                            
+                                Monday, 23 July 2018 at 00:12
+                            
+                            by
+                            
+                                nigeldodds34
+                            
+                        </small>
+                    </div>
+                </div>
+            
+                <div class="row" style="margin-bottom: 1ex">
+                    <div>
+                        &lt;span title=&#34;jakegoodwell/GAMMA-CINQUANTE-CINQ:patch-2&#34; class=&#34;commit-ref css-truncate user-select-contain expandable 
+                    </div>
+                    <div>
+                        <small>
+                            Posted
+                            
+                                Monday, 23 July 2018 at 00:13
+                            
+                            by
+                            
+                                nigeldodds34
+                            
+                        </small>
+                    </div>
+                </div>
+            
+                <div class="row" style="margin-bottom: 1ex">
+                    <div>
+                         href=&#34;/jakegoodwell/GAMMA-CINQUANTE-CINQ/tree/patch-2&#34;&gt;patch-2&lt;/a&gt;&lt;/code&gt; branch on &lt;a class=&#34;text-emphasized&#34; href=&#34;/jakegoodwell/GAMMA-CINQUANTE-CINQ&#34;&gt;jakegoodwell/GAMMA-CINQUANTE-CINQ&lt;/a&gt;.&lt;/p&gt;
+                    </div>
+                    <div>
+                        <small>
+                            Posted
+                            
+                                Monday, 23 July 2018 at 00:14
+                            
+                            by
+                            
+                                nigeldodds34
+                            
+                        </small>
+                    </div>
+                </div>
+            
+
+            
+                <div class="row">
+                    <form action="." method="POST">
+                        <textarea name="contents" placeholder="Enter a comment" class="form-control"></textarea>
+                        <input type="submit" class="btn btn-success" value="Post comment">
+                    </form>
+                </div>
+            
+        </div><!-- /.container -->
+
+    </body>
+</html>
